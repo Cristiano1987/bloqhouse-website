@@ -1,0 +1,19 @@
+<svg id="Group_32" data-name="Group 32" xmlns="http://www.w3.org/2000/svg" viewBox="14.615 1317.315 1039.993 1079.035">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #48bddb;
+      }
+
+      .cls-1 {
+        opacity: 0.15;
+      }
+
+      .cls-2 {
+        opacity: 0.371;
+      }
+    </style>
+  </defs>
+  <path id="Path_90" data-name="Path 90" class="cls-1" d="M0,536.148,91.187,0,829.46,729.3Z" transform="matrix(0.485, 0.875, -0.875, 0.485, 652.477, 1317.315)"/>
+  <path id="Path_91" data-name="Path 91" class="cls-2" d="M0,536.148,91.187,0,829.46,729.3Z" transform="translate(30.15 2185.104) rotate(-81)"/>
+</svg>

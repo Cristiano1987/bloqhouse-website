@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3185 10286 182.942 173.427">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #475058;
+        stroke-width: 6px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #475058;
+      }
+
+      .cls-3 {
+        fill: #49bddb;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_252" data-name="Group 252" transform="translate(2108 6821)">
+    <g id="Group_216" data-name="Group 216" transform="translate(39.612 129.212)">
+      <g id="Rectangle_141" data-name="Rectangle 141" class="cls-1" transform="translate(1078.205 3474.423) rotate(-68)">
+        <rect class="cls-5" width="149.522" height="92.877" rx="15"/>
+        <rect class="cls-6" x="3" y="3" width="143.522" height="86.877" rx="12"/>
+      </g>
+      <rect id="Rectangle_142" data-name="Rectangle 142" class="cls-2" width="149.522" height="21.943" transform="translate(1093.346 3480.54) rotate(-68)"/>
+      <g id="Ellipse_94" data-name="Ellipse 94" class="cls-3" transform="translate(1160.212 3409.036) rotate(-68)">
+        <ellipse class="cls-5" cx="13.3" cy="13.3" rx="13.3" ry="13.3"/>
+        <ellipse class="cls-6" cx="13.3" cy="13.3" rx="11.8" ry="11.8"/>
+      </g>
+      <g id="Ellipse_95" data-name="Ellipse 95" class="cls-4" transform="translate(1167.092 3392.007) rotate(-68)">
+        <ellipse class="cls-5" cx="13.3" cy="13.3" rx="13.3" ry="13.3"/>
+        <ellipse class="cls-6" cx="13.3" cy="13.3" rx="11.8" ry="11.8"/>
+      </g>
+      <g id="Rectangle_137" data-name="Rectangle 137" class="cls-1" transform="translate(1037.388 3496.378) rotate(-90)">
+        <rect class="cls-5" width="160.59" height="99.752" rx="15"/>
+        <rect class="cls-6" x="3" y="3" width="154.59" height="93.752" rx="12"/>
+      </g>
+      <rect id="Rectangle_138" data-name="Rectangle 138" class="cls-2" width="160.59" height="23.568" transform="translate(1054.927 3496.378) rotate(-90)"/>
+      <g id="Ellipse_92" data-name="Ellipse 92" class="cls-3" transform="translate(1092.745 3398.27) rotate(-90)">
+        <ellipse class="cls-5" cx="14.284" cy="14.284" rx="14.284" ry="14.284"/>
+        <ellipse class="cls-6" cx="14.284" cy="14.284" rx="12.784" ry="12.784"/>
+      </g>
+      <g id="Ellipse_93" data-name="Ellipse 93" class="cls-4" transform="translate(1092.745 3378.544) rotate(-90)">
+        <ellipse class="cls-5" cx="14.284" cy="14.284" rx="14.284" ry="14.284"/>
+        <ellipse class="cls-6" cx="14.284" cy="14.284" rx="12.784" ry="12.784"/>
+      </g>
+    </g>
+  </g>
+</svg>

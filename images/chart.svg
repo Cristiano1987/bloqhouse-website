@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1129.787 3115.445 161.597 161.555">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #475058;
+      }
+    </style>
+  </defs>
+  <g id="Group_80" data-name="Group 80" transform="translate(-210 -240)">
+    <g id="line-chart" transform="translate(1339.787 3355.445)">
+      <circle id="Ellipse_22" data-name="Ellipse 22" class="cls-1" cx="10" cy="10" r="10" transform="translate(44.213 40.555)"/>
+      <circle id="Ellipse_23" data-name="Ellipse 23" class="cls-1" cx="10" cy="10" r="10" transform="translate(73.213 69.555)"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" class="cls-1" cx="10" cy="10" r="10" transform="translate(138.213 3.555)"/>
+      <circle id="Ellipse_21" data-name="Ellipse 21" class="cls-1" cx="10" cy="10" r="10" transform="translate(3.213 80.555)"/>
+      <g id="Group_47" data-name="Group 47" transform="translate(134.467)">
+        <g id="Group_46" data-name="Group 46">
+          <path id="Path_125" data-name="Path 125" class="cls-2" d="M281.085,0A13.565,13.565,0,1,0,294.65,13.565,13.546,13.546,0,0,0,281.085,0Zm0,20.16a6.595,6.595,0,1,1,6.595-6.595A6.59,6.59,0,0,1,281.085,20.16Z" transform="translate(-267.52)"/>
+        </g>
+      </g>
+      <g id="Group_49" data-name="Group 49" transform="translate(0 77.313)">
+        <g id="Group_48" data-name="Group 48">
+          <path id="Path_126" data-name="Path 126" class="cls-2" d="M13.565,153.813A13.565,13.565,0,1,0,27.13,167.378,13.546,13.546,0,0,0,13.565,153.813Zm0,20.16a6.595,6.595,0,1,1,6.595-6.595A6.59,6.59,0,0,1,13.565,173.973Z" transform="translate(0 -153.813)"/>
+        </g>
+      </g>
+      <g id="Group_51" data-name="Group 51" transform="translate(40.319 36.995)">
+        <g id="Group_50" data-name="Group 50">
+          <path id="Path_127" data-name="Path 127" class="cls-2" d="M93.778,73.6a13.565,13.565,0,1,0,13.565,13.565A13.546,13.546,0,0,0,93.778,73.6Zm0,20.16a6.595,6.595,0,1,1,6.595-6.595A6.59,6.59,0,0,1,93.778,93.76Z" transform="translate(-80.213 -73.6)"/>
+        </g>
+      </g>
+      <g id="Group_53" data-name="Group 53" transform="translate(68.895 65.571)">
+        <g id="Group_52" data-name="Group 52">
+          <path id="Path_128" data-name="Path 128" class="cls-2" d="M150.631,130.453A13.565,13.565,0,1,0,164.2,144.018,13.546,13.546,0,0,0,150.631,130.453Zm0,20.16a6.595,6.595,0,1,1,6.595-6.595A6.59,6.59,0,0,1,150.631,150.613Z" transform="translate(-137.066 -130.453)"/>
+        </g>
+      </g>
+      <g id="Group_55" data-name="Group 55" transform="translate(87.145 18.169)">
+        <g id="Group_54" data-name="Group 54" transform="translate(0 0)">
+          <rect id="Rectangle_50" data-name="Rectangle 50" class="cls-2" width="72.541" height="6.97" transform="translate(0 51.345) rotate(-45.057)"/>
+        </g>
+      </g>
+      <g id="Group_57" data-name="Group 57" transform="translate(58.574 55.208)">
+        <g id="Group_56" data-name="Group 56" transform="translate(0 0)">
+          <rect id="Rectangle_51" data-name="Rectangle 51" class="cls-2" width="6.97" height="20.267" transform="matrix(0.706, -0.708, 0.708, 0.706, 0, 4.938)"/>
+        </g>
+      </g>
+      <g id="Group_59" data-name="Group 59" transform="translate(18.259 55.21)">
+        <g id="Group_58" data-name="Group 58" transform="translate(0 0)">
+          <rect id="Rectangle_52" data-name="Rectangle 52" class="cls-2" width="36.833" height="6.97" transform="translate(0 26.045) rotate(-45)"/>
+        </g>
+      </g>
+      <rect id="Rectangle_70" data-name="Rectangle 70" class="cls-2" width="161" height="7" rx="3.5" transform="translate(0.213 154.555)"/>
+    </g>
+  </g>
+</svg>

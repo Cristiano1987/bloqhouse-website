@@ -1,0 +1,26 @@
+<svg id="Group_34" data-name="Group 34" xmlns="http://www.w3.org/2000/svg" viewBox="1384.456 2955.354 127.48 82.437">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #475058;
+      }
+    </style>
+  </defs>
+  <path id="Rectangle_42" data-name="Rectangle 42" class="cls-1" d="M0,0H123a0,0,0,0,1,0,0V66a10,10,0,0,1-10,10H10A10,10,0,0,1,0,66V0A0,0,0,0,1,0,0Z" transform="translate(1387 2959)"/>
+  <g id="letter" transform="translate(1384.456 2864.899)">
+    <g id="Group_29" data-name="Group 29" transform="translate(0 90.455)">
+      <g id="Group_28" data-name="Group 28">
+        <path id="Path_115" data-name="Path 115" class="cls-2" d="M124.941,90.455H2.539A2.539,2.539,0,0,0,0,92.994V159.9a13,13,0,0,0,12.988,12.988h101.5A13,13,0,0,0,127.48,159.9V92.994A2.54,2.54,0,0,0,124.941,90.455ZM122.4,159.9a7.918,7.918,0,0,1-7.909,7.909H12.988A7.918,7.918,0,0,1,5.079,159.9V98.535L62.131,145.24a2.54,2.54,0,0,0,3.215,0l44.146-36.06a2.539,2.539,0,1,0-3.213-3.933L63.742,139.995,9.431,95.534H122.4Z" transform="translate(0 -90.455)"/>
+      </g>
+    </g>
+    <g id="Group_31" data-name="Group 31" transform="translate(111.736 98.835)">
+      <g id="Group_30" data-name="Group 30" transform="translate(0 0)">
+        <path id="Path_116" data-name="Path 116" d="M454.033,125.044a2.539,2.539,0,0,0-3.573-.36l-.762.622a2.539,2.539,0,1,0,3.212,3.933l.762-.622A2.539,2.539,0,0,0,454.033,125.044Z" transform="translate(-448.765 -124.111)"/>
+      </g>
+    </g>
+  </g>
+</svg>

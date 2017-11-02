@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="72.671 1248.072 129.731 129.84">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #475058;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: #48bddb;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_20" data-name="Group 20" transform="translate(72.671 1377.929) rotate(-90)">
+    <g id="Ellipse_5" data-name="Ellipse 5" class="cls-1" transform="translate(0.018 0)">
+      <ellipse class="cls-3" cx="64.92" cy="64.865" rx="64.92" ry="64.865"/>
+      <ellipse class="cls-4" cx="64.92" cy="64.865" rx="61.92" ry="61.865"/>
+    </g>
+    <g id="info-sign" transform="translate(60.542 68.667) rotate(90)">
+      <g id="Group_133" data-name="Group 133" transform="translate(-21.724 -41.009)">
+        <path id="Path_186" data-name="Path 186" class="cls-2" d="M52.051,0c4.77,0,7.155,3.254,7.155,6.974,0,4.647-4.142,8.945-9.54,8.945-4.52,0-7.156-2.673-7.031-7.087A9.163,9.163,0,0,1,52.051,0ZM37.361,71.244c-3.767,0-6.529-2.324-3.892-12.55l4.324-18.136c.753-2.9.876-4.066,0-4.066-1.131,0-6.021,2.006-8.913,3.983L27,37.336c9.164-7.784,19.707-12.349,24.226-12.349,3.765,0,4.394,4.532,2.511,11.5L48.786,55.556c-.879,3.369-.5,4.53.375,4.53,1.13,0,4.835-1.4,8.475-4.3l2.135,2.906C50.858,67.753,41.128,71.244,37.361,71.244Z" transform="translate(-27)"/>
+      </g>
+    </g>
+  </g>
+</svg>

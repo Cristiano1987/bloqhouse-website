@@ -1,0 +1,38 @@
+<svg id="Group_33" data-name="Group 33" xmlns="http://www.w3.org/2000/svg" viewBox="1118.926 1478.504 634.235 675.361">
+  <defs>
+    <style>
+      .cls-1, .cls-4, .cls-5 {
+        fill: #48bddb;
+      }
+
+      .cls-1 {
+        opacity: 0.1;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #475058;
+      }
+
+      .cls-2 {
+        opacity: 0.248;
+      }
+
+      .cls-3 {
+        opacity: 0.3;
+      }
+
+      .cls-4 {
+        opacity: 0.25;
+      }
+
+      .cls-5 {
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <path id="Path_103" data-name="Path 103" class="cls-1" d="M386.725,1324.229l14.066,92.019,113.88-125.17Z" transform="translate(2399.548 992.931) rotate(76)"/>
+  <path id="Path_105" data-name="Path 105" class="cls-2" d="M386.725,1338.749l3.927,132.324,31.791-180Z" transform="translate(868.389 3305.158) rotate(-132)"/>
+  <path id="Path_102" data-name="Path 102" class="cls-3" d="M386.725,1319l7.783,77.5,63.014-105.417Z" transform="matrix(0.122, 0.993, -0.993, 0.122, 2466.588, 1460.541)"/>
+  <path id="Path_101" data-name="Path 101" class="cls-4" d="M452.036,1319.81l-7.18,79.753-58.131-108.485Z" transform="matrix(-0.819, 0.574, -0.574, -0.819, 2810.479, 2482.411)"/>
+  <path id="Path_104" data-name="Path 104" class="cls-5" d="M420.151,1313.026l-3.675,60.924-29.751-82.872Z" transform="translate(2662.318 1069.305) rotate(89)"/>
+</svg>

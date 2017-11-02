@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-193 -97 3192.945 1343">
+  <defs>
+    <style>
+	    
+      .cls-1, .cls-10, .cls-11, .cls-2, .cls-3, .cls-7, .cls-8, .cls-9 {
+        fill: #48bddb;
+      }
+      
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12{
+	    animation-duration: 1.5s;
+		animation-direction:alternate;
+		animation-iteration-count:infinite;
+		animation-fill-mode: forwards;
+      }
+      
+      @keyframes opacity1{
+		from{opacity: 0.08;}
+		to{opacity: 0.2;}
+	  }
+	  
+	  @keyframes opacity2{
+		from{opacity: 0.15;}
+		to{opacity: 0.27;}
+	  }
+	  
+	  @keyframes opacity3{
+		from{opacity: 0.1;}
+		to{opacity: 0.22;}
+	  }
+	  
+	  @keyframes opacity4{
+		from{opacity: 0.248;}
+		to{opacity: 0.36;}
+	  }
+	  
+	  @keyframes opacity5{
+		from{opacity: 0.3;}
+		to{opacity: 0.42;}
+	  }
+	  
+	  @keyframes opacity6{
+		from{opacity: 0.2;}
+		to{opacity: 0.32;}
+	  }
+	  
+	  @keyframes opacity7{
+		from{opacity: 0.25;}
+		to{opacity: 0.37;}
+	  }
+	  
+	  @keyframes opacity8{
+		from{opacity: 0.4;}
+		to{opacity: 0.52;}
+	  }
+	  
+	  @keyframes opacity9{
+		from{opacity: 0.17;}
+		to{opacity: 0.29;}
+	  }
+	  
+	  @keyframes opacity10{
+		from{opacity: 0.08;}
+		to{opacity: 0.2;}
+	  }
+	  
+	  @keyframes opacity11{
+		from{opacity: 0.095;}
+		to{opacity: 0.2;}
+	  }
+	  
+	  @keyframes opacity12{
+		from{opacity: 0.298;}
+		to{opacity: 0.4;}
+	  }
+      
+      .cls-1{
+		opacity: 0.08;
+		animation-name:opacity1;
+		transform:translate(1564.805 -889.304);
+	  }
+
+      .cls-2 {
+        opacity: 0.15;
+        animation-delay:0.4s;
+        animation-name:opacity2;
+      }
+
+      .cls-3 {
+        opacity: 0.1;
+        animation-delay:0.6s;
+        animation-name:opacity3;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #475058;
+      }
+
+      .cls-4 {
+        opacity: 0.248;
+        animation-delay:0.4s;
+        animation-name:opacity4;
+      }
+
+      .cls-5 {
+        opacity: 0.3;
+        animation-delay:0.8s;
+        animation-name:opacity5;
+      }
+      
+      .cls-6{
+	      animation-name:opacity6;
+      }
+
+      .cls-11, .cls-6 {
+        opacity: 0.2;
+      }
+
+      .cls-7 {
+        opacity: 0.25;
+        animation-delay:0.4s;
+        animation-name:opacity7;
+      }
+
+      .cls-8 {
+        opacity: 0.4;
+        animation-delay:0.6s;
+        animation-name:opacity8;
+      }
+
+      .cls-9 {
+        opacity: 0.17;
+        animation-delay:0.8s;
+        animation-name:opacity9;
+      }
+
+      .cls-10 {
+        opacity: 0.095;
+        animation-delay:0.4s;
+        animation-name:opacity10;
+      }
+      
+      .cls-11{
+	      animation-name:opacity11;
+      }
+
+      .cls-12 {
+        fill: #819097;
+        opacity: 0.298;
+        animation-delay:0.6s;
+        animation-name:opacity12;
+      }
+    </style>
+  </defs>
+  <g id="triangles-bg" transform="translate(136.263 -80.991)">
+    <path id="Path_64" data-name="Path 64" class="cls-1" d="M224.927,1596.461l429.3,338.408,314.66-432.206Z" transform="translate(1364.805 -789.304) rotate(66.997)"/>
+    <path id="Path_68" data-name="Path 68" class="cls-2" d="M386.726,1577.766l120.592,795.771,976.351-1082.46Z" transform="translate(782.78 -847.242) rotate(-16.024)"/>
+    <path id="Path_65" data-name="Path 65" class="cls-3" d="M386.725,1324.229l14.066,92.019,113.88-125.17Z" transform="translate(3374.548 273.931) rotate(76)"/>
+    <path id="Path_71" data-name="Path 71" class="cls-4" d="M386.725,1338.749l3.927,132.324,31.791-180Z" transform="matrix(0.375, 0.927, -0.927, 0.375, 1947.959, -652.111)"/>
+    <path id="Path_77" data-name="Path 77" class="cls-5" d="M386.725,1326.336l9.829,97.867,79.576-133.124Z" transform="translate(2108.152 632.7) rotate(93)"/>
+    <path id="Path_66" data-name="Path 66" class="cls-6" d="M439.469,1324.445l-5.8,92.618-46.945-125.985Z" transform="translate(2353.945 1450.095) rotate(167)"/>
+    <path id="Path_72" data-name="Path 72" class="cls-6" d="M407.123,1321.117l-2.242,83.382-18.156-113.421Z" transform="translate(2577.509 844.497) rotate(128)"/>
+    <path id="Path_67" data-name="Path 67" class="cls-7" d="M420.151,1313.026l-3.675,60.924-29.751-82.872Z" transform="translate(226.382 1644.047) rotate(-129)"/>
+    <path id="Path_80" data-name="Path 80" class="cls-8" d="M420.151,1313.026l-3.675,60.924-29.751-82.872Z" transform="translate(1021.86 -600.153) rotate(56.993)"/>
+    <path id="Path_73" data-name="Path 73" class="cls-7" d="M476.179,1330.431l-9.834,109.234-79.62-148.587Z" transform="translate(2031.823 1644.606) rotate(144)"/>
+    <path id="Path_79" data-name="Path 79" class="cls-9" d="M464.279,1328.174l-8.526,102.969-69.028-140.065Z" transform="translate(-910.504 -370.472) rotate(-48)"/>
+    <path id="Path_74" data-name="Path 74" class="cls-10" d="M476.179,1330.431l-9.834,109.234-79.62-148.587Z" transform="matrix(-0.616, -0.788, 0.788, -0.616, -730.074, 1979.194)"/>
+    <path id="Path_70" data-name="Path 70" class="cls-11" d="M420.151,1313.026l-3.675,60.924-29.751-82.872Z" transform="translate(1828.318 481.305) rotate(89)"/>
+    <path id="Path_78" data-name="Path 78" class="cls-3" d="M420.151,1313.026l-3.675,60.924-29.751-82.872Z" transform="translate(-1124.221 614.551) rotate(-56.993)"/>
+    <path id="Path_69" data-name="Path 69" class="cls-12" d="M446.773,1308.646l-6.6,48.763-53.446-66.331Z" transform="translate(2168.747 1828.113) rotate(146.993)"/>
+  </g>
+</svg>

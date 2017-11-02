@@ -1,0 +1,176 @@
+@supports not (display:grid){
+
+/***** Fallback *****/
+	
+	header{
+		padding: 0 10%;
+		display: block;
+	}
+	
+	nav.mainMenu{
+		float: right;
+	}
+	
+	header.fixed nav.mainMenu{
+		margin-top: 0;
+	}
+	
+	.logo{
+		float: left;
+	}
+	
+	.spacing{
+		padding: 0;
+	}
+	
+	#first-section, #second-section, #third-section, #fourth-section, #fifth-section, footer, #product-first-section, #product-second-section, #product-third-section, #product-fourth-section, #project-first-section, #project-second-section{
+		clear: both;
+		padding: 0 10%;
+		overflow: hidden;
+	}
+	
+	#third-section, #product-second-section{
+		padding: 70px 10%;
+	}
+	
+	#fourth-section{
+		padding: 70px 0;
+	}
+	
+	.bitcoin-headline, .bitcoin-image, .wallet-image, .wallet-headline, .smart-contracts-cont, .dapp-system, .for-who, .collect-bloqs, .tokenization-image, .tokenization-headline {
+	    width: 50%;
+	    float: left;
+	}
+	
+	.smart-contracts{
+		max-width: 65%;
+	}
+	
+	.bitcoin-image{
+		min-height: 460px;
+	}
+	
+	.bitcoin-headline {
+	    margin-top: 8%;
+	}
+	
+	.feature-1, .feature-2, .feature-3{
+		width: 31%;
+		float: left;
+		min-height: 460px;
+	}
+	
+	.feature-1 span, .feature-2 span, .feature-3 span{
+		display: block;
+	}
+	
+	.suite-1, .suite-2, .suite-3, .suite-4{
+		width: 25%;
+		float: left;
+	}
+	
+	.chart{
+		width: 100%;
+		padding: 0 10%;
+	}
+	
+	.data1, .data2, .data3, .data4 {
+	    position: relative;
+	    width: 25%;
+	    float: left;
+	}
+	
+	.wallet-image span{
+		text-align: center;
+	}
+	
+	.team-1, .team-2, .team-3, .team-4, .team-5, .team-6{
+		float: left;
+		width: 17.8%;
+	}
+	
+	footer{
+		padding: 40px 10%;
+	}
+	
+	footer .contacts, footer .community, footer .keep-in-touch{
+		float: left;
+	}
+	
+	footer .contacts{
+		width: 30%;
+	}
+	
+	footer .community{
+		width: 30%;
+	}
+	
+	footer .keep-in-touch{
+		width: 40%;
+	}
+	
+	footer ul li, footer ul li{
+		width: 100%;
+	}
+	
+	footer ul li, footer ul li a{
+		display: block;
+		float: left;
+	}
+	
+	footer ul li a i, footer ul li a span{
+		float: left;
+	}
+	
+	footer ul li a span{
+		margin-top: 13px;
+	}
+	
+	@media only screen and (min-width:1440px){
+	
+		.chart {
+		    height: 720px;
+		}
+		
+		.smart-contracts{
+			max-width: 47%;
+		}
+		
+	}
+	
+	
+
+	@media only screen and (max-width:1024px){
+		#second-section{
+			padding: 5% 10%;
+		}
+		footer .contacts {
+		    width: 50%;
+		    padding-left: 70px;
+		}
+	}
+	
+	
+	@media only screen and (max-width:667px){
+		.logo{
+			width: 130px;
+		}
+		.responsiveMenu {
+		    width: 20px;
+		    height: 20px;
+		    position: absolute;
+		    right: 30px;
+		    background: url("../images/menu.svg") no-repeat center center / 20px;
+		    top: 14px;
+		}
+		
+		.bitcoin-headline, .bitcoin-image, .wallet-image, .wallet-headline, .smart-contracts-cont, .dapp-system, .for-who, .collect-bloqs, .tokenization-image, .tokenization-headline {
+		    width: 100%;
+		    display: block;
+		    clear: both;
+		}
+	}
+
+}
+
+/***** End Fallback *****/

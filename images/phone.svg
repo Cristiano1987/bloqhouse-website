@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1266.564 2980.406 120.03 69.158">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #91d4e5;
+      }
+
+      .cls-3 {
+        fill: #475058;
+      }
+
+      .cls-4 {
+        fill: #48bddb;
+      }
+    </style>
+  </defs>
+  <g id="Group_43" data-name="Group 43" transform="translate(4121.594 2020.406) rotate(90)">
+    <rect id="Rectangle_43" data-name="Rectangle 43" class="cls-1" width="64.704" height="116.279" rx="9" transform="translate(962.579 2736.641)"/>
+    <rect id="Rectangle_44" data-name="Rectangle 44" class="cls-2" width="63.532" height="78.535" transform="translate(962.579 2751.879)"/>
+    <g id="mobile-phone" transform="translate(960 2735)">
+      <g id="Group_36" data-name="Group 36" transform="translate(0)">
+        <g id="Group_35" data-name="Group 35">
+          <path id="Path_117" data-name="Path 117" class="cls-3" d="M168.867,0H117.291A8.8,8.8,0,0,0,108.5,8.791V111.239a8.8,8.8,0,0,0,8.791,8.791h51.575a8.8,8.8,0,0,0,8.791-8.791V8.791A8.8,8.8,0,0,0,168.867,0Zm5.275,95.415H124.324a1.758,1.758,0,1,0,0,3.517h49.817v12.308a5.281,5.281,0,0,1-5.275,5.275H117.291a5.281,5.281,0,0,1-5.275-5.275V98.931h5.275a1.758,1.758,0,1,0,0-3.517h-5.275V17.583h62.125Zm0-81.349H112.017V8.791a5.281,5.281,0,0,1,5.275-5.275h51.575a5.281,5.281,0,0,1,5.275,5.275Z" transform="translate(-108.5)"/>
+        </g>
+      </g>
+      <g id="Group_38" data-name="Group 38" transform="translate(32.821 7.033)">
+        <g id="Group_37" data-name="Group 37">
+          <path id="Path_118" data-name="Path 118" class="cls-3" d="M257.291,30h-7.033a1.758,1.758,0,1,0,0,3.517h7.033a1.758,1.758,0,1,0,0-3.517Z" transform="translate(-248.5 -30)"/>
+        </g>
+      </g>
+      <g id="Group_40" data-name="Group 40" transform="translate(29.304 102.448)">
+        <g id="Group_39" data-name="Group 39">
+          <path id="Path_119" data-name="Path 119" class="cls-4" d="M238.775,437a5.275,5.275,0,1,0,5.275,5.275A5.281,5.281,0,0,0,238.775,437Zm0,7.033a1.758,1.758,0,1,1,1.758-1.758A1.76,1.76,0,0,1,238.775,444.033Z" transform="translate(-233.5 -437)"/>
+          <circle id="Ellipse_19" data-name="Ellipse 19" class="cls-4" cx="2.344" cy="2.344" r="2.344" transform="translate(3.048 3.048)"/>
+        </g>
+      </g>
+      <g id="Group_42" data-name="Group 42" transform="translate(25.788 7.033)">
+        <g id="Group_41" data-name="Group 41">
+          <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-3" cx="1.758" cy="1.758" r="1.758"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

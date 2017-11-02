@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1015.201 6868.484 22.147 22.168">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #475058;
+      }
+
+      .cls-2 {
+        fill: #465057;
+      }
+
+      .cls-4 {
+        fill: #47bcdb;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_196" data-name="Group 196" transform="translate(1009.201 6897.67) rotate(-90)">
+    <g id="Ellipse_5" data-name="Ellipse 5" class="cls-1" transform="translate(7.018 6)">
+      <ellipse class="cls-5" cx="11.084" cy="11.074" rx="11.084" ry="11.074"/>
+      <ellipse class="cls-6" cx="11.084" cy="11.074" rx="10.584" ry="10.574"/>
+    </g>
+    <g id="Group_165" data-name="Group 165" transform="translate(22.897 12.057) rotate(90)">
+      <g id="bottomleft" transform="translate(0 5.483)">
+        <path id="Path_187" data-name="Path 187" class="cls-2" d="M4.677,4.3a.378.378,0,0,1-.378.378H.378A.378.378,0,0,1,0,4.3V.378A.378.378,0,0,1,.378,0h4.3V4.3Z"/>
+        <path id="Path_193" data-name="Path 193" class="cls-3" d="M1.341,0,0,.835V2.771H2.681V1.417H1.341Z" transform="translate(0.998 0.969)"/>
+      </g>
+      <g id="bottomright" transform="translate(5.483 5.483)">
+        <path id="Path_188" data-name="Path 188" class="cls-4" d="M4.3,0a.378.378,0,0,1,.378.378V4.3a.378.378,0,0,1-.379.378H.378A.378.378,0,0,1,0,4.3V0H4.3Z" transform="translate(0 0)"/>
+        <path id="Path_194" data-name="Path 194" class="cls-3" d="M0,1.448V2.8H2.681V.867L1.391,0l-.05.031V1.448Z" transform="translate(0.998 0.937)"/>
+      </g>
+      <g id="topleft" transform="translate(0 0)">
+        <path id="Path_190" data-name="Path 190" class="cls-2" d="M.378,4.677A.378.378,0,0,1,0,4.3V.379A.378.378,0,0,1,.378,0H4.3a.378.378,0,0,1,.378.378v4.3H.378Z"/>
+        <path id="Path_191" data-name="Path 191" class="cls-3" d="M2.681,1.51V.867L1.391,0,0,.867V2.8H1.341V1.51Z" transform="translate(0.998 0.829)"/>
+      </g>
+      <g id="topright" transform="translate(5.483)">
+        <path id="Path_189" data-name="Path 189" class="cls-4" d="M0,.378A.378.378,0,0,1,.378,0H4.3a.378.378,0,0,1,.378.379V4.3a.378.378,0,0,1-.378.378H0V.378Z" transform="translate(0)"/>
+        <path id="Path_192" data-name="Path 192" class="cls-3" d="M1.341,2.8H2.681V.867L1.391,0,0,.867V1.51H1.341Z" transform="translate(0.998 0.829)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2107.327 4685 1440.696 323.823">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ee5ff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_105" data-name="Group 105" transform="translate(2108.138 4559.583)">
+    <path id="Path_75" data-name="Path 75" class="cls-1" d="M-.734,1048.539l145.45,30.4,143.231-98.793,145.319,108.547L575.749,1027.3l144.84,61.393L863.972,969.953l144.515,108.273,143.165-125.253,144.3,97.109,143.337-46v262.172l-1440.68.027Z" transform="translate(0.578 -817.043)"/>
+    <path id="Path_142" data-name="Path 142" class="cls-2" d="M-210.507,4196.328l144.677,29.157,143.447-96,145.033,106.332,143-59.594,145.058,59.594,143.47-116.749,144.518,105.1L943.2,4102.308l142.212,94.667,140.694-43.527" transform="translate(210.862 -3964.583)"/>
+    <path id="Path_172" data-name="Path 172" class="cls-3" d="M1436.2,186.485l3.68-1.083v5.149l-2.2.7Z"/>
+    <path id="Path_173" data-name="Path 173" class="cls-3" d="M-.138,229.094l1.147.228-1.147,4.866Z"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-3" cx="12.5" cy="12.5" r="12.5" transform="translate(275.862 155.417)"/>
+    <circle id="Ellipse_51" data-name="Ellipse 51" class="cls-3" cx="12.5" cy="12.5" r="12.5" transform="translate(563.862 200.417)"/>
+    <circle id="Ellipse_52" data-name="Ellipse 52" class="cls-3" cx="12.5" cy="12.5" r="12.5" transform="translate(851.862 144.417)"/>
+    <circle id="Ellipse_53" data-name="Ellipse 53" class="cls-3" cx="12.5" cy="12.5" r="12.5" transform="translate(1141.862 125.417)"/>
+  </g>
+</svg>
